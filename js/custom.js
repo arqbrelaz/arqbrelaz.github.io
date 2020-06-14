@@ -399,7 +399,7 @@ jQuery(function ($) { "use strict";
 		map.setMapTypeId('roadatlas');
 	}
 
-	google.maps.event.addDomListener(window, "load", initialize);
+	// google.maps.event.addDomListener(window, "load", initialize);
 
 
 });
